@@ -17,8 +17,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ClassLibrary1\CrudAPI.Core.Domain.csproj" />
     <ProjectReference Include="..\CrudAPI.Core.Application\CrudAPI.Core.Application.csproj" />
+    <ProjectReference Include="..\CrudAPI.Core.Domain\CrudAPI.Core.Domain.csproj" />
   </ItemGroup>
 
 </Project>

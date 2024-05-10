@@ -13,7 +13,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{50545703-5
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{0231D36F-101C-4DAA-97D9-6478D20D5EAC}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CrudAPI.Core.Domain", "ClassLibrary1\CrudAPI.Core.Domain.csproj", "{5E9B5894-2A35-4CB7-81D9-E5936C9A74EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CrudAPI.Core.Domain", "CrudAPI.Core.Domain\CrudAPI.Core.Domain.csproj", "{5E9B5894-2A35-4CB7-81D9-E5936C9A74EB}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CrudAPI.Core.Application", "CrudAPI.Core.Application\CrudAPI.Core.Application.csproj", "{8AB58FA9-60F8-48AC-9A09-470B4FC1A7F7}"
 EndProject
